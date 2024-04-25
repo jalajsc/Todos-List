@@ -49,7 +49,7 @@ function App() {
       <div className="min-h-screen bg-slate-700 py-8 ">
         <div className="w-full max-w-2xl mx-auto shadow-md shadow-black ring-lime-500 ring-2 p-2 rounded-lg text-white">
           <h1 className="text-4xl text-lime-600 text-center font-black font-mono mt-4 mb-10 border-b-2">
-            Todos
+            Todos Jalaj
           </h1>
           <div className="mb-4">
             <TodoForm />
